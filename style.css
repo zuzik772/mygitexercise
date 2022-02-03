@@ -48,9 +48,6 @@ section ul {
   gap: 1rem;
 }
 
-section li:first-child {
-}
-
 main {
   display: flex;
   align-items: center;
